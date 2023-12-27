@@ -42,4 +42,4 @@ async def Globaltempimg(ctx):
     picture = discord.File(f)
    # Можем передавать файл как параметр!
     await ctx.send(file=picture)
-bot.run('MTE4OTU2OTQwODczNDA2ODc5OA.GcKkKH.sSdKTbB6tRN91wJ-iSBSenYVZvaZ4DCMlpdRfs')
+bot.run('')
